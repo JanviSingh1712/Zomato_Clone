@@ -2,11 +2,12 @@
 
 🌟 Welcome to my Zomato clone! 🌟 This project is a clone of Zomato built using HTML, CSS, and JavaScript. 🌐✨
 
-Project Demo: https://nidhiupman568.github.io/ZOMATO-CLONE/
+Project Demo: https://zomato-clone-indol.vercel.app/
 
 ## 🌟 Features 🌟
 
 ### 🏠 Home Page 🏠
+
 - **🗺️ Navigation 🗺️**: Includes options to add a restaurant, login, or sign up.
 - **🏙️ City-wise Restaurant Selection 🏙️**: Allows users to choose restaurants based on their city.
 - **🔽 Footer 🔽**: Standard footer at the bottom of the page.
@@ -22,6 +23,7 @@ Project Demo: https://nidhiupman568.github.io/ZOMATO-CLONE/
 ![HOME PAGE 4](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/923c8da6-b335-4685-a66a-00e5371e8ef1)
 
 ### 🔍 Search Page 🔍
+
 - **📍 Location Tracking 📍**: Users can use GPS to track their location or use a search bar to find restaurants based on location preferences.
 - **🔧 Filters 🔧**: Users can apply filters such as vegetarian/non-vegetarian options and restaurant ratings.
 - **🔽 Footer 🔽**: Same standard footer as on the Home Page.
@@ -33,6 +35,7 @@ Project Demo: https://nidhiupman568.github.io/ZOMATO-CLONE/
 ![SEARCH PAGE 2](https://github.com/nidhiupman568/ZOMATO-CLONE/assets/130860182/b0a2b7eb-1aae-48fa-9475-026ef4a92a4a)
 
 ### 🍲 Restaurant Page 🍲
+
 - **📜 Menu Display 📜**: Displays all dishes available at the chosen restaurant, including prices and ratings.
 - **🛒 Ordering 🛒**: Users can add dishes to their cart and view the total bill before placing their order.
 - **✅ Order Placement ✅**: Clicking "Place Order" completes the order process successfully.
